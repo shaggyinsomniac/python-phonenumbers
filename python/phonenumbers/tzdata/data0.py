@@ -4,7 +4,7 @@ Auto-generated file, do not edit by hand.
 """
 from ..util import u
 
-# Copyright (C) 2011-2024 The Libphonenumber Authors
+# Copyright (C) 2011-2025 The Libphonenumber Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -2007,7 +2007,22 @@ data = {
  '1920':('America/Chicago',),
  '1925':('America/Los_Angeles',),
  '1928':('America/Phoenix',),
- '1928688':('America/Denver', 'America/Phoenix'),
+ '1928283':('America/Denver', 'America/Phoenix'),
+ '1928672':('America/Denver', 'America/Phoenix'),
+ '1928673':('America/Denver', 'America/Phoenix'),
+ '1928674':('America/Denver', 'America/Phoenix'),
+ '1928677':('America/Denver', 'America/Phoenix'),
+ '1928686':('America/Denver', 'America/Phoenix'),
+ '1928697':('America/Denver', 'America/Phoenix'),
+ '1928698':('America/Denver', 'America/Phoenix'),
+ '1928724':('America/Denver', 'America/Phoenix'),
+ '1928725':('America/Denver', 'America/Phoenix'),
+ '1928728':('America/Denver', 'America/Phoenix'),
+ '1928729':('America/Denver', 'America/Phoenix'),
+ '1928755':('America/Denver', 'America/Phoenix'),
+ '1928781':('America/Denver', 'America/Phoenix'),
+ '1928787':('America/Denver', 'America/Phoenix'),
+ '1928871':('America/Denver', 'America/Phoenix'),
  '1929':('America/New_York',),
  '1930':('America/New_York',),
  '1931':('America/Chicago',),

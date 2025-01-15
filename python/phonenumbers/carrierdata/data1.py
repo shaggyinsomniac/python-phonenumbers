@@ -4,7 +4,7 @@ Auto-generated file, do not edit by hand.
 """
 from ..util import u
 
-# Copyright (C) 2011-2024 The Libphonenumber Authors
+# Copyright (C) 2011-2025 The Libphonenumber Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,22 +19,6 @@ from ..util import u
 # limitations under the License.
 
 data = {
- '553299108':{'en': 'TIM'},
- '553299109':{'en': 'TIM'},
- '553299111':{'en': 'TIM'},
- '553299112':{'en': 'TIM'},
- '553299113':{'en': 'TIM'},
- '553299114':{'en': 'TIM'},
- '553299115':{'en': 'TIM'},
- '553299116':{'en': 'TIM'},
- '553299117':{'en': 'TIM'},
- '553299118':{'en': 'TIM'},
- '553299119':{'en': 'TIM'},
- '553299121':{'en': 'TIM'},
- '553299122':{'en': 'TIM'},
- '553299123':{'en': 'TIM'},
- '553299124':{'en': 'TIM'},
- '553299125':{'en': 'TIM'},
  '553299126':{'en': 'TIM'},
  '553299127':{'en': 'TIM'},
  '553299128':{'en': 'TIM'},
@@ -10019,4 +10003,20 @@ data = {
  '5733316':{'en': 'Libre Tecnologias'},
  '57333170':{'en': 'Libre Tecnologias'},
  '57333171':{'en': 'Libre Tecnologias'},
+ '573332':{'en': 'Movil Exito'},
+ '5733320':{'en': 'Tigo'},
+ '5733321':{'en': 'Tigo'},
+ '5733330':{'en': 'GoMobile'},
+ '5733332':{'en': 'EZTALK Mobile'},
+ '5733333':{'en': 'EZTALK Mobile'},
+ '5733334':{'en': 'EZTALK Mobile'},
+ '5733335':{'en': 'EZTALK Mobile'},
+ '5733340':{'en': 'Comunicaciones Dime'},
+ '5733341':{'en': 'Comunicaciones Dime'},
+ '5733342':{'en': 'Comunicaciones Dime'},
+ '5733343':{'en': 'Comunicaciones Dime'},
+ '5733344':{'en': 'Comunicaciones Dime'},
+ '5733345':{'en': 'Tigo'},
+ '5733346':{'en': 'Tigo'},
+ '5733347':{'en': 'Tigo'},
 }

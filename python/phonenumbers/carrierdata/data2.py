@@ -4,7 +4,7 @@ Auto-generated file, do not edit by hand.
 """
 from ..util import u
 
-# Copyright (C) 2011-2024 The Libphonenumber Authors
+# Copyright (C) 2011-2025 The Libphonenumber Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,22 +19,6 @@ from ..util import u
 # limitations under the License.
 
 data = {
- '573332':{'en': 'Movil Exito'},
- '5733320':{'en': 'Tigo'},
- '5733321':{'en': 'Tigo'},
- '5733330':{'en': 'GoMobile'},
- '5733332':{'en': 'EZTALK Mobile'},
- '5733333':{'en': 'EZTALK Mobile'},
- '5733334':{'en': 'EZTALK Mobile'},
- '5733335':{'en': 'EZTALK Mobile'},
- '5733340':{'en': 'Comunicaciones Dime'},
- '5733341':{'en': 'Comunicaciones Dime'},
- '5733342':{'en': 'Comunicaciones Dime'},
- '5733343':{'en': 'Comunicaciones Dime'},
- '5733344':{'en': 'Comunicaciones Dime'},
- '5733345':{'en': 'Tigo'},
- '5733346':{'en': 'Tigo'},
- '5733347':{'en': 'Tigo'},
  '5733348':{'en': 'Tigo'},
  '5733349':{'en': 'Tigo'},
  '5733360':{'en': 'Suma Movil'},
@@ -338,11 +322,7 @@ data = {
  '59774':{'en': 'Digicel'},
  '59775':{'en': 'Telesur'},
  '59776':{'en': 'Digicel'},
- '597770':{'en': 'Telesur'},
- '597771':{'en': 'Telesur'},
- '597772':{'en': 'Telesur'},
- '597773':{'en': 'Telesur'},
- '597774':{'en': 'Telesur'},
+ '59777':{'en': 'Telesur'},
  '5978':{'en': 'Telesur'},
  '59781':{'en': 'Digicel'},
  '59782':{'en': 'Digicel'},
@@ -2126,6 +2106,7 @@ data = {
  '68045':{'en': 'PMCI'},
  '68046':{'en': 'PMCI'},
  '68077':{'en': 'PalauCel'},
+ '68078':{'en': 'PalauCel'},
  '68083':{'en': 'PMCI'},
  '68088':{'en': 'PalauTel'},
  '6817':{'en': u('Service des Postes et T\u00e9l\u00e9communications')},
@@ -4699,6 +4680,7 @@ data = {
  '90510221':{'en': 'Netgsm'},
  '90510222':{'en': 'Netgsm'},
  '90510223':{'en': 'Netgsm'},
+ '90510224':{'en': 'Netgsm'},
  '90510227':{'en': 'Netgsm'},
  '90510232':{'en': 'Foniv Telecommunications Services'},
  '90510244':{'en': 'Nida Telekomunikasyon'},
@@ -4720,10 +4702,6 @@ data = {
  '9053386':{'en': 'Kuzey Kibris Turkcell'},
  '9053387':{'en': 'Kuzey Kibris Turkcell'},
  '9054':{'en': 'Vodafone'},
- '9054285':{'en': 'KKTC Telsim'},
- '9054286':{'en': 'KKTC Telsim'},
- '9054287':{'en': 'KKTC Telsim'},
- '9054288':{'en': 'KKTC Telsim'},
  '9055':{'en': 'Turk Telekom'},
  '905610':{'en': 'Selam Mobile'},
  '905616':{'en': 'Turkcell'},
@@ -7980,9 +7958,9 @@ data = {
  '919991':{'en': 'Vodafone'},
  '919992':{'en': 'Idea'},
  '919999':{'en': 'Vodafone'},
- '9230':{'en': 'Mobilink'},
+ '9230':{'en': 'Jazz'},
  '9231':{'en': 'Zong'},
- '9232':{'en': 'Warid'},
+ '9232':{'en': 'Jazz'},
  '9233':{'en': 'Ufone'},
  '9234':{'en': 'Telenor'},
  '9235':{'en': 'Special Communications Organization'},
