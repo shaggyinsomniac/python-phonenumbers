@@ -620,6 +620,11 @@ class PhoneNumberUtilTest(TestMetadataTestCase):
         self.assertEqual("1 800 SIX-FLAG",
                          phonenumbers.format_out_of_country_keeping_alpha_chars(alphaNumericNumber, "BS"))
 
+        # Testing a number with extension.
+        alphaNumericNumberWithExtn = phonenumbers.parse("800 SIX-flag ext. 1234", "US", keep_raw_input=True)
+        self.assertEqual("0011 1 800 SIX-FLAG extn. 1234",
+                         phonenumbers.format_out_of_country_keeping_alpha_chars(alphaNumericNumberWithExtn, "AU"))
+
         # Testing that if the raw input doesn't exist, it is formatted using
         # formatOutOfCountryCallingNumber.
         alphaNumericNumber.raw_input = None
