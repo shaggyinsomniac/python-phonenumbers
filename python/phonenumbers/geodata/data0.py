@@ -3808,6 +3808,7 @@ data = {
  '1270982':{'en': 'Elizabethtown, KY'},
  '1270988':{'en': 'Salem, KY'},
  '1272':{'en': 'Pennsylvania'},
+ '1274':{'en': 'Wisconsin'},
  '1276':{'en': 'Virginia'},
  '1276223':{'en': 'Wytheville, VA'},
  '1276228':{'en': 'Wytheville, VA'},
@@ -10018,5 +10019,4 @@ data = {
  '1414486':{'en': 'Milwaukee, WI'},
  '1414489':{'en': 'Cudahy, WI'},
  '1414527':{'en': 'Milwaukee, WI'},
- '1414535':{'en': 'Milwaukee, WI'},
 }

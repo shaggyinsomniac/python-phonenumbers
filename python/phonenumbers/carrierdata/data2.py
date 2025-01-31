@@ -19,10 +19,6 @@ from ..util import u
 # limitations under the License.
 
 data = {
- '5733348':{'en': 'Tigo'},
- '5733349':{'en': 'Tigo'},
- '5733360':{'en': 'Suma Movil'},
- '5733361':{'en': 'Suma Movil'},
  '5733362':{'en': 'Suma Movil'},
  '5733363':{'en': 'Suma Movil'},
  '5733364':{'en': 'Suma Movil'},
@@ -3757,6 +3753,7 @@ data = {
  '852469':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
  '8524699':{'en': 'South China Telecommunications', 'zh': u('\u4e2d\u570b\u5357\u65b9\u96fb\u4fe1(\u9999\u6e2f)\u6709\u9650\u516c\u53f8')},
  '852470':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
+ '852471':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
  '852474':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
  '852475':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
  '852476':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
@@ -3982,6 +3979,7 @@ data = {
  '852702':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
  '852703':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
  '852704':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
+ '852705':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
  '8527071':{'en': 'SmarTone', 'zh': u('\u6570\u7801\u901a')},
  '8527072':{'en': 'SmarTone', 'zh': u('\u6570\u7801\u901a')},
  '8527073':{'en': 'SmarTone', 'zh': u('\u6570\u7801\u901a')},
