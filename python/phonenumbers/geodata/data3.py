@@ -5831,6 +5831,7 @@ data = {
  '2747':{'en': 'Butterworth/Eastern part of Eastern Cape/Mthatha'},
  '2748':{'en': 'Cradock/Northern part of Eastern Cape/Steynsburg'},
  '2749':{'en': 'Graaff-Reinet/Western part of Eastern Cape'},
+ '2750':{'en': 'Aliwal North/Bloemfontein/Far eastern part of Eastern Cape/Southern and Central Free State'},
  '2751':{'en': 'Aliwal North/Bloemfontein/Far eastern part of Eastern Cape/Southern and Central Free State'},
  '2753':{'en': 'Eastern part of Northern Cape/Far western part of North West/Kimberley/Kuruman'},
  '2754':{'en': 'Upington/Gordonia'},
@@ -10018,5 +10019,4 @@ data = {
  '3323591':{'en': 'Barentin', 'fr': 'Barentin'},
  '3323592':{'en': 'Barentin', 'fr': 'Barentin'},
  '3323595':{'en': 'Yvetot', 'fr': 'Yvetot'},
- '3323597':{'en': 'Saint-Valery-en-Caux', 'fr': 'Saint-Valery-en-Caux'},
 }
