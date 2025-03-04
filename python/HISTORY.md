@@ -12,6 +12,12 @@ This file does not generally include descriptions of patch releases (vX.Y.Z
 changes.  (Metadata updates are best checked
 [upstream](https://github.com/google/libphonenumber/blob/master/release_notes.txt).)
 
+What's new in 9.0.0
+--------------------
+
+Merge to upstream version 9.0.0.  This is a major version change in the upstream code due to an update in the required
+Java version; however, the Python version only has metadata changes.
+
 What's new in 8.13.8
 --------------------
 
