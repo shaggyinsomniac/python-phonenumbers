@@ -19,6 +19,13 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '57333170':{'en': 'Libre Tecnologias'},
+ '57333171':{'en': 'Libre Tecnologias'},
+ '573332':{'en': 'Movil Exito'},
+ '5733320':{'en': 'Tigo'},
+ '5733321':{'en': 'Tigo'},
+ '5733330':{'en': 'GoMobile'},
+ '5733332':{'en': 'EZTALK Mobile'},
  '5733333':{'en': 'EZTALK Mobile'},
  '5733334':{'en': 'EZTALK Mobile'},
  '5733335':{'en': 'EZTALK Mobile'},
@@ -2053,6 +2060,7 @@ data = {
  '67387':{'en': 'UNN'},
  '67388':{'en': 'UNN'},
  '67389':{'en': 'UNN'},
+ '6742':{'en': 'NEOTEL'},
  '674553':{'en': 'Digicel'},
  '674554':{'en': 'Digicel'},
  '674556':{'en': 'Digicel'},
@@ -2060,7 +2068,9 @@ data = {
  '674558':{'en': 'Digicel'},
  '674559':{'en': 'Digicel'},
  '6746':{'en': 'Digicel'},
- '6748':{'en': 'FSM Telecom'},
+ '6747':{'en': 'NEOTEL'},
+ '6748':{'en': 'NEOTEL'},
+ '6749':{'en': 'NEOTEL'},
  '6757':{'en': 'Digicel'},
  '67575':{'en': 'bmobile'},
  '67576':{'en': 'bmobile'},
