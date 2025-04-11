@@ -19,6 +19,16 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '5733306':{'en': 'Tigo'},
+ '5733307':{'en': 'Tigo'},
+ '5733308':{'en': 'Tigo'},
+ '5733310':{'en': 'Libre Tecnologias'},
+ '5733311':{'en': 'Libre Tecnologias'},
+ '5733312':{'en': 'Libre Tecnologias'},
+ '5733313':{'en': 'Libre Tecnologias'},
+ '5733314':{'en': 'Libre Tecnologias'},
+ '5733315':{'en': 'Libre Tecnologias'},
+ '5733316':{'en': 'Libre Tecnologias'},
  '57333170':{'en': 'Libre Tecnologias'},
  '57333171':{'en': 'Libre Tecnologias'},
  '573332':{'en': 'Movil Exito'},
@@ -3782,6 +3792,7 @@ data = {
  '8524699':{'en': 'South China Telecommunications', 'zh': u('\u4e2d\u570b\u5357\u65b9\u96fb\u4fe1(\u9999\u6e2f)\u6709\u9650\u516c\u53f8')},
  '852470':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
  '852471':{'en': 'Hutchison Telecom', 'zh': u('\u548c\u8a18\u96fb\u8a71\u6709\u9650\u516c\u53f8')},
+ '852472':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
  '8524740':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
  '8524741':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
  '8524742':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
@@ -3988,6 +3999,7 @@ data = {
  '852675':{'en': 'HKT', 'zh': u('\u9999\u6e2f\u79fb\u52a8\u901a\u8baf'), 'zh_Hant': u('\u9999\u6e2f\u79fb\u52d5\u901a\u8a0a')},
  '852676':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8'), 'zh_Hant': u('\u4e2d\u570b\u79fb\u52d5')},
  '852677':{'en': 'HKT', 'zh': u('\u9999\u6e2f\u79fb\u52a8\u901a\u8baf'), 'zh_Hant': u('\u9999\u6e2f\u79fb\u52d5\u901a\u8a0a')},
+ '852678':{'en': 'China Mobile', 'zh': u('\u4e2d\u56fd\u79fb\u52a8')},
  '852679':{'en': '3', 'zh': '3', 'zh_Hant': '3'},
  '852680':{'en': 'HKT', 'zh': u('\u9999\u6e2f\u79fb\u52a8\u901a\u8baf'), 'zh_Hant': u('\u9999\u6e2f\u79fb\u52d5\u901a\u8a0a')},
  '852681':{'en': 'China Unicom', 'zh': u('\u4e2d\u56fd\u8054\u901a'), 'zh_Hant': u('\u4e2d\u570b\u806f\u901a')},

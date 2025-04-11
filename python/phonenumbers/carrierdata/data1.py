@@ -19,6 +19,16 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '5532985':{'en': 'Oi'},
+ '5532986':{'en': 'Oi'},
+ '5532987':{'en': 'Oi'},
+ '5532988':{'en': 'Oi'},
+ '5532989':{'en': 'Oi'},
+ '553299101':{'en': 'TIM'},
+ '553299102':{'en': 'TIM'},
+ '553299103':{'en': 'TIM'},
+ '553299104':{'en': 'TIM'},
+ '553299105':{'en': 'TIM'},
  '553299106':{'en': 'TIM'},
  '553299107':{'en': 'TIM'},
  '553299108':{'en': 'TIM'},
@@ -10009,14 +10019,4 @@ data = {
  '5733303':{'en': 'Setroc Mobile'},
  '5733304':{'en': 'Setroc Mobile'},
  '5733305':{'en': 'Tigo'},
- '5733306':{'en': 'Tigo'},
- '5733307':{'en': 'Tigo'},
- '5733308':{'en': 'Tigo'},
- '5733310':{'en': 'Libre Tecnologias'},
- '5733311':{'en': 'Libre Tecnologias'},
- '5733312':{'en': 'Libre Tecnologias'},
- '5733313':{'en': 'Libre Tecnologias'},
- '5733314':{'en': 'Libre Tecnologias'},
- '5733315':{'en': 'Libre Tecnologias'},
- '5733316':{'en': 'Libre Tecnologias'},
 }
