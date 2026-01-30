@@ -140,10 +140,12 @@ Release Procedure
     cd python/phonenumberslite && rm -rf build dist phonenumberslite.egg-info && python -m build
     twine check dist/*
     twine upload dist/*
+    cd -
     ```
 - Push the package to PyPI with:
     ```
     cd python && rm -rf build dist phonenumbers.egg-info && python -m build
     twine check dist/*
     twine upload dist/*
+    cd -
     ```
