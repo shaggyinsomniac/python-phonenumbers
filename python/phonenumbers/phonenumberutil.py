@@ -1103,10 +1103,10 @@ def format_number(numobj, num_format):
         # specified and the format is E164. In that case, we prepend the raw input with the country
         # code
         raw_input = numobj.raw_input or ""
-        if (len(raw_input) > 0
-            and numobj.country_code is not None
-            and numobj.country_code_source == CountryCodeSource.FROM_DEFAULT_COUNTRY
-            and num_format == PhoneNumberFormat.E164):
+        if (len(raw_input) > 0 and
+            numobj.country_code is not None and
+            numobj.country_code_source == CountryCodeSource.FROM_DEFAULT_COUNTRY and
+            num_format == PhoneNumberFormat.E164):
             return _prefix_number_with_country_calling_code(numobj.country_code, num_format, raw_input)
         elif len(raw_input) > 0 or numobj.country_code is None:
             return numobj.raw_input
