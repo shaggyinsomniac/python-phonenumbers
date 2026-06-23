@@ -112,6 +112,8 @@ Some other mappings between the Java and Python versions:
 Release Procedure
 -----------------
 
+- Ensure you have the requirements to build, with something like `pip install build twine` (in
+  current environment) or `pipx install build twine`.
 - Ensure that `python/HISTORY.md` file is up-to-date, and includes
   descriptions of changes in this version (adapted from the
   upstream [release notes](https://github.com/google/libphonenumber/blob/master/release_notes.txt),
@@ -127,24 +129,22 @@ Release Procedure
     `cd tools/python && make PYTHON=python3 metaclean alldata`
 - Check that the unit tests all run successfully in Python 3:
     `cd tools/python && make PYTHON=python3 test`
-- Check that Python 2.5 is still supported:
-    `cd tools/python && make PYTHON=python2.5 test`
+- Check that Python 2 is still supported:
+    `cd tools/python && make PYTHON=python2 test`
 - Create a vX.Y.Z tag:
     `git tag vX.Y.Z`
 - Push the tag to Github with:
     `git push <github-remote> vX.Y.Z`
-- Ensure you have the requirements to build:
-    `pip install build twine`
 - Push the lite package to PyPI with:
     ```
-    cd python/phonenumberslite && rm -rf build dist phonenumberslite.egg-info && python -m build
+    cd python/phonenumberslite && rm -rf build dist phonenumberslite.egg-info && pyproject-build
     twine check dist/*
     twine upload dist/*
     cd -
     ```
 - Push the package to PyPI with:
     ```
-    cd python && rm -rf build dist phonenumbers.egg-info && python -m build
+    cd python && rm -rf build dist phonenumbers.egg-info && pyproject-build
     twine check dist/*
     twine upload dist/*
     cd -
